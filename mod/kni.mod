@@ -3,6 +3,6 @@ tags={
 	"Culture"
 	"Gameplay"
 }
-name="Natural Cultural Tech Era / Innovation Progression for 1.9.*"
-supported_version="1.9.*"
+name="Natural Cultural Tech Era / Innovation Progression for 1.13.*+"
+supported_version="1.15.*"
 path="mod/kni"
