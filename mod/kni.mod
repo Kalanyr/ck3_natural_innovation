@@ -1,8 +1,8 @@
-version="1.7"
+version="1.8"
 tags={
 	"Culture"
 	"Gameplay"
 }
-name="Natural Cultural Tech Era / Innovation Progression for 1.16.*"
-supported_version="1.16.*"
+name="Culture Era Year Requirements Removed for 1.18.*"
+supported_version="1.18.*"
 path="mod/kni"
